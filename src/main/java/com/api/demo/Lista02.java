@@ -1,3 +1,6 @@
+package com.api.demo;
+import java.util.Scanner;
+
 public class Lista02 {
 
     public enum UnidadeFederativa {
